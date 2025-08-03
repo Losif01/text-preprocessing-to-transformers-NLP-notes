@@ -1,5 +1,6 @@
 ## Notes on NLP (all the way to transformers)
 This is my personal notes i have been taking while studying the [Stanford NLP course](https://web.stanford.edu/class/cs224n/), they also have it uploaded on youtube, just search "Stanford NLP" on youtube and you will find the latest upload from them
+##### I strongly advise using [Obsidian](https://obsidian.md/download) to render this file, as github doesn't render block equations here well
 ## What you will find
 you will find in the notes, not just unorganized gibberish like most students do
 you will see:
