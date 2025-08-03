@@ -12,4 +12,4 @@ you will see:
 
 ## That's it, Happy learning!
 
-notes file: []()
+[Start Learning Now!](https://github.com/Losif01/text-preprocessing-to-transformers-NLP-notes/blob/main/Notes.md)
