@@ -14,3 +14,4 @@ you will see:
 ## That's it, Happy learning!
 
 [Click to start learning now!](https://github.com/Losif01/text-preprocessing-to-transformers-NLP-notes/blob/main/Notes.md)
+# _Please star this repo if you find it helpful_
